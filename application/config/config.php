@@ -7,6 +7,8 @@ if(PRODUCT_ENVIRONMENT == 'PROD'){
     $config['base_url'] = 'http://localhost/creativegraphics/';
 }
 
+// This is testing
+
 
 /*
 |--------------------------------------------------------------------------
